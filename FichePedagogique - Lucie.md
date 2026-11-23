@@ -16,7 +16,7 @@
 
 ### Compétences
 
-**CODE CRÉATIF**
+**CODE CRÉATIF** J'ai du mal à écrire seule les lignes de code nécessaires pour obtenir ce que je veux. En revanche quand j'ai un code HTML ou CSS sous les yeux je comprends à quoi correspondent les éléments, comment ils interagissent entre eux, comment les modifier pour atteindre mon objectif... sauf le JavaScript que je trouve plus complexe.
 
 **GIT ET VERSIONING:** C'est ma première fois sur GitHub mais j'ai vite compris le principe grâce aux explications. Ça m'a fait penser à Google Drive.
 
@@ -34,7 +34,7 @@
 
 #### Sujet du projet
 
-- **Titre du projet :**
+- **Titre du projet :** Gribouillis
 - **Description du projet (environ 150 mots) :**
 
 #### Thématiques de recherche
