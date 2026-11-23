@@ -18,7 +18,7 @@
 
 **CODE CRÉATIF**
 
-**GIT ET VERSIONING: C'est ma première fois sur GitHub mais j'ai vite compris le principe grâce aux explications. Ça m'a fait penser à Google Drive.**
+**GIT ET VERSIONING:** C'est ma première fois sur GitHub mais j'ai vite compris le principe grâce aux explications. Ça m'a fait penser à Google Drive.
 
 **INTERACTIVITÉ ET RENDU TEMPS RÉEL**
 
