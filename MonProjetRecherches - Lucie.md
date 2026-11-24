@@ -8,6 +8,22 @@ CNRT
 -Site qui récolte —> Cours Théorie des médias Étudiants machine Learning caché sous forme de jeu ?
 Ex: Captcha, quick draw google
 ——> RECOLTE RADICALE 
+
+Idées de récoltes radicales: sous formes d'expériences/performances filmées récolter des écritures 
+qui donnerait lieu à des ecritures asémiques: 
+1. ecrire les yeux bandés
+2. ecrire en courant 
+3. ecrire en marchant
+4. ecrire avec ma main non dominante 
+5. ecrire avec mes pieds 
+6. ecrire en état d'ivresse  
+7. ecrire apres avoir tourné sur moi meme 
+8. ecrire avec plusieurs stylo scotche entre eux
+9. ecrire avec un stylo au bout d'un baton
+10. ecrire allongée
+11. ecrire au meme endroit
+12. ecrire en boucle la meme chose 
+
 Lora 
 
 Reconnaitre forme IA et écriture => faible 
