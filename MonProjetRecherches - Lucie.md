@@ -58,3 +58,6 @@ Comparer les séries entre elles.
 ![Logo Markdown](img/24Nov_thalie_gribouillis.jpg)
 ![Logo Markdown](img/24Nov_robin_gribouillis.jpg)
 
+### 25/11/2026
+
+En pensant que l'on a davantage tendance à gribouiller quand on a l'esprit ailleurs. Pendant qu'on écoute quelque chose notre main se balade toute seule sans objectif. Le cours m'est donc apparu comme un moment propice et en y réfléchissant je me suis rendue compte que j'avais déjà vu ce genre de traces sur les tables des salles de classe. J'aimerais donc récolter ce qui y est dessiné.
