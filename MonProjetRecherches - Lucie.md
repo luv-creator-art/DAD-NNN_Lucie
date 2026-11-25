@@ -60,4 +60,26 @@ Comparer les séries entre elles.
 
 ### 25/11/2026
 
-En pensant que l'on a davantage tendance à gribouiller quand on a l'esprit ailleurs. Pendant qu'on écoute quelque chose notre main se balade toute seule sans objectif. Le cours m'est donc apparu comme un moment propice et en y réfléchissant je me suis rendue compte que j'avais déjà vu ce genre de traces sur les tables des salles de classe. J'aimerais donc récolter ce qui y est dessiné.
+tester si une ia ça gribouille : J'ai testé avec 
+prompt : Génère une image d'un gribouillis au stylo noir sur fond blanc.   un autre x en boucle 
+sur chatgpt, copilot, gemini, meta ia 
+
+![Logo Markdown](img/chatgpt_gribouillis.jpg)
+chatgpt
+![Logo Markdown](img/copilot_gribouillis.jpg)
+copilot
+
+Les deux ia chatgpt et Copilot Fond blanc pur, trait d'une épaisseur régulière, sans aucune variation de pression. Ce sont surtout de grandes boucles ovales et horizontales, qui s'emmêlent au centre et finissent par une petite « queue ». dessin pas realiste comme à l'ordinateur 
+
+![Logo Markdown](img/gemini_gribouillis.jpg)
+gemini
+Papier realiste avec des plis et du grain, style encre de stylo bille, trait qui s'épaissit et s'éclaircit, sorte de symetrie et le stylo se lève. dessin réaliste, mais plus chargé. 
+![Logo Markdown](img/metaia_gribouillis.jpg)
+meta ia
+comme gemini (traits séparés, pression variable, grain du papier), mais très chargé, gribouilli differents à chaque fois, certaines images ajoutent des symboles reconnaissables comme un cœur, une maison ou une étoile.
+
+ia genere une image 
+entrainer sur ma base 
+quel modele? quel data set? tag annoter avec des concepts comment j'annote 
+
+Pour une potentielle V2 :Je viens de penser que je gribouille moins depuis que j'ai un ordi en classe. en revanche meme si je ne fais rien de particulier ma souris passe son temps à bouger sur l'ecran, un gribouillage virtuel ? mon but serait alors de recolter les gribouillis virtuels en faisant un programme qui dessine le mouvement de la souris ? 
