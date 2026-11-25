@@ -78,8 +78,11 @@ Papier realiste avec des plis et du grain, style encre de stylo bille, trait qui
 meta ia
 comme gemini (traits séparés, pression variable, grain du papier), mais très chargé, gribouilli differents à chaque fois, certaines images ajoutent des symboles reconnaissables comme un cœur, une maison ou une étoile.
 
-ia genere une image 
 entrainer sur ma base 
+je pense entrainer 
 quel modele? quel data set? tag annoter avec des concepts comment j'annote 
+
+après renseignement j'aimerais entrainer une ia qui part de 0 et uniquement avec mes images, pas partir d'une qui est deja entrainée et l'afffiner. 
+Pour cela j'ai trouvé un lien d'un tutoriel pour un DCGAN (Deep Convolutional Generative Adversarial Network) <https://youtu.be/672YP9k6Xws> je commence à me renseigner 
 
 Pour une potentielle V2 :Je viens de penser que je gribouille moins depuis que j'ai un ordi en classe. en revanche meme si je ne fais rien de particulier ma souris passe son temps à bouger sur l'ecran, un gribouillage virtuel ? mon but serait alors de recolter les gribouillis virtuels en faisant un programme qui dessine le mouvement de la souris ? 
