@@ -2,6 +2,30 @@
 
 ## Gribouillis
 
+### 27/11/2026
+
+Je commece par me renseigner sur les GAN en suivant la vidéo 
+Pour expliquer ce que c'est : https://www.tensorflow.org/tutorials/generative/dcgan?hl=fr
+
+--> Les réseaux antagonistes génératifs (GAN) sont deux modèles sont formés simultanément par un processus contradictoire. Un générateur ("l'artiste") apprend à créer des images qui semblent réelles, tandis qu'un discriminateur ("le critique d'art") apprend à distinguer les vraies images des fausses.
+Au cours de l'entraînement, le générateur s'améliore progressivement pour créer des images qui semblent réelles, tandis que le discriminateur s'améliore pour les différencier. Le processus atteint l'équilibre lorsque le discriminateur ne peut plus distinguer les images réelles des fausses.
+
+J'ai dans le terminal de vscode installé Python et Git, puis j'ai récupéré le code du tutoriel (DCGAN-Pytorch d'ExplainingAI) dans son github à lui: https://github.com/explainingai-code/DCGAN-Pytorch/tree/main 
+
+et je l'ai mis dans mon dossier GitHub. J'ai préparé un environnement (un dossier .venv) pour que tout ce que j'installe reste dans cette boite et installé PyTorch qui est un outil qui sert à entraîner et fabriquer mon IA (Outil crée par metaIA) pour m'eviter de faire les calculs moi meme . 
+
+![Logo Markdown](img/27Nov_terminalGAN_1.png)
+![Logo Markdown](img/27Nov_terminalGAN_2.png)
+![Logo Markdown](img/27Nov_terminalGAN_3.png)
+
+ma prochaine étape est d'adapter le code de la vidéo pour lire mes propres images au lieu des chiffres et lancer le premier entraînement. Je pourrai ensuite comparer les gribouillis inventés par mon IA avec ceux de ChatGPT, Copilot, Gemini et Meta AI, et avec les vrais
+
+J'ai également complété ma base de données avec de nouveaux gribouillages j'en ai récolté 40 en gardant la même méthode du bonneteau. 
+![Logo Markdown](img/27Nov_chaeryoung_gribouillis.jpg)
+![Logo Markdown](img/27Nov_margot_gribouillis.jpg)
+![Logo Markdown](img/27Nov_seryoung_gribouillis.jpg)
+![Logo Markdown](img/27Nov_sonia_gribouillis.jpg)
+
 ### 25/11/2026
 
 tester si une ia ça gribouille : J'ai testé avec 
